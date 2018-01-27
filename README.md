@@ -6,10 +6,25 @@ This repo includes all of the materials that you will need for the "Machine Lear
 
 ## Agenda
 
-1. [Introduction to Go](introduction_to_go)
+1. [Introduction to Go](introduction_to_go) -> practical
+    * Introduction to ML (process) -> slides
+
 2. [Data Gathering and Organization](data_gathering_organization)
+    * Data exploration
+    * Data loading and cleaning
+    
 3. [Building ML Models in Go](building_models)
+    * Introduction a manchine learning. Comment ça marche un projet data
+    * Feature engineering
+    * Model development
+    * Model evaluation 
+
 4. [Deployment and Scaling](deploy_scale)
+    * Deployment
+    * Automation
+    * Scaling
+    * Monitoring
+
 5. [Bonus](bonus)
 
 ## Prerequisites

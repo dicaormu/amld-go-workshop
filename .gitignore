@@ -1,0 +1,7 @@
+
+/rsc.io/
+/gomacro_imports/
+/introduction_to_go/gomacro_imports/
+*.ipynb_checkpoints/
+/.idea
+/introduction_to_go/notebooks/exercise1/*.png

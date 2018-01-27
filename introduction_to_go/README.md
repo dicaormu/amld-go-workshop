@@ -24,6 +24,29 @@ Applied machine learning workflows should maintain a high level of integrity in 
 [Maintain integrity in Go CSV parsing](example4/example4.go)  
 
 ## Exercises
+install jupyter for go
+Build the docker image for jupyter with go in introduction_to_go/gophernotes
+```
+$ cd introduction_to_go/gophernotes
+
+$ docker build . -t gophernotes/gophernotes
+```
+
+Run the built image
+
+```
+$ docker run -it -p 8888:8888 -v /PATH/TO/LOCAL/PROJECT/amld-go-workshop:/go/src/amld-go-workshop  gophernotes/gophernotes
+
+```
+
+## introduction_to_go
+
+Notebook
+in data there is a csv file: 5kings_battles_v1.csv. It contains all the information about the Battles of the War of Five Kings 
+
+you can find the dataset and the python notebook in 
+
+https://github.com/chrisalbon/war_of_the_five_kings_dataset
 
 ### Exercise 1
 

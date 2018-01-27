@@ -1,0 +1,21 @@
+https://www.kaggle.com/datasets
+http://imagenet.stanford.edu/
+https://aws.amazon.com/public-datasets/
+http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
+
+tools for annotating
+https://www.labelbox.io/?
+https://github.com/sgp715/simple_image_annotator
+
+take one example?
+
+https://www.kaggle.com/vmarkovtsev/gonuts
+https://www.kaggle.com/alexattia/the-simpsons-characters-dataset
+https://www.kaggle.com/zalando-research/fashionmnist
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+https://www.kaggle.com/crailtap/taxi-trajectory
+https://www.kaggle.com/PROPPG-PPG/hourly-weather-surface-brazil-southeast-region
+https://www.kaggle.com/jackcosgrove/labelme-lets-eat
+
+read images:
+"image/jpeg"

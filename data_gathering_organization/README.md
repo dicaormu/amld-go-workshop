@@ -7,6 +7,7 @@ Without data, our machine learning models can't learn. This might seem obvious. 
 - Go's have support for dealing with most any data format/source, and the packages keep getting better
 - `gonum` provides matrix/stats capabilities similar to Python's `numpy`
 - `gota` provides dataframe capabilities similar to Python's `pandas`
+- https://github.com/gocarina/gocsv
 
 ## Links
 
